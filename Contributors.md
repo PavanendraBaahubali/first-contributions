@@ -1,6 +1,7 @@
 
 # Contributors
 - [owobu frank] (https://github.com/frankowobu) ****contributing to an open source project***
+- [Li Jiajun](https://github.com/lijiajun3029) **I am a newbie!**
 - [Abhinandan Singh](https://github.com/abhinandan29) **☻**
 - [Gabriel Lipaysa](https://github.com/Er000s) **I am now ready for world domination**
 - [Nalindu Melaka](https://github.com/NalinduMelaka)***This is my contribution***
@@ -6849,6 +6850,7 @@ git stat
 - [Nallll88](https://github.com/Nallll88)
 - [Binayak Bhattacharjee](https://github.com/ZenMachina16)
 - [Akash Javali](https://github.com/akashjavali)
+- [Gaia](https://github.com/gbanchelli)
 - [Shrinav Loka] (https://github.com/lokashrinav)
 - [Talasia Calderon](https://github.com/TalasiaCalderon)
 - [Benjamin-Appiah-Poku](https://github.com/Benappiahpoku)
